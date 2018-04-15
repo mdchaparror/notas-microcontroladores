@@ -5,8 +5,8 @@
 
 #define LED_RED      // D1
 
-const char* ssid = "mdchaparror";
-const char* password = "un260874";
+const char* ssid = "xxxxxx";
+const char* password = "xxxxxxx";
 int contconexion = 0;
 
 String pagina ="<html>"
